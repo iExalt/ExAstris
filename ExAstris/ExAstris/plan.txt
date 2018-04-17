@@ -1,0 +1,5 @@
+1. Generate base triangle
+2. Seed pool with slightly mutated base
+3. Breed new members from top members
+4. Mutate all members except top pair
+5. Cull bottom members
